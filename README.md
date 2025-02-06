@@ -1,6 +1,3 @@
-
-Voici une version améliorée de la description de ton projet :
-
 Outil de Création et Gestion de Dictionnaires Python avec Interface Graphique
 Ce projet consiste en un outil de création et de gestion de dictionnaires Python avec une interface graphique simple et intuitive. L'application permet à l'utilisateur de créer des dictionnaires, de les remplir manuellement, mais aussi de modifier ou effacer des entrées selon les besoins.
 
